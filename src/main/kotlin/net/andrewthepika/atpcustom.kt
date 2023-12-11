@@ -1,8 +1,8 @@
-package com.example
+package net.andrewthepika
 
 import xyz.xenondevs.nova.addon.Addon
 
-object ExampleAddon : Addon() {
+object atpcustom : Addon() {
     
     override fun init() {
         // Called when the addon is initialized.

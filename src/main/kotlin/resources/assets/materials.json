@@ -1,0 +1,14 @@
+{
+  "tin_ingot": "item/tin_ingot",
+  "tin_nugget": "item/tin_nugget",
+  "raw_tin": "item/rawtin",
+
+
+
+  "tin_block": "blocks/tin_block",
+  "tin_ore": "blocks/tinore",
+  "deepslate_tin_ore": "blocks/deepslatetinore",
+  "raw_tin_block": "blocks/rawtinblock"
+
+
+}
